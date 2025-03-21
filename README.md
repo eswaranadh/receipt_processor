@@ -2,6 +2,13 @@
 
 A web service that processes receipts and calculates points based on defined rules.
 
+## Output Preview
+
+![image](https://github.com/user-attachments/assets/e62c8d2e-1cdd-4af1-bd85-301091c8f907)
+
+![image](https://github.com/user-attachments/assets/4a3f78b0-dea4-4d82-8d9a-4ddcd0e6c454)
+
+
 ## Running the Application
 
 1. Create a virtual environment:
